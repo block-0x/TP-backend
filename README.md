@@ -1,7 +1,4 @@
 # backend
-
-「rails-react-matching-app」のバックエンド。
-
 ## セットアップ
 
 ```
